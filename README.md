@@ -1,5 +1,5 @@
 ### Exp No : 11 SYNCHRONOUS-UP-COUNTER
-## Date : 5/12/2024
+## Date : 5/12/2024 
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
